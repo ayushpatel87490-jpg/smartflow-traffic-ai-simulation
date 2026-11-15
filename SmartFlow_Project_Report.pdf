@@ -1,0 +1,731 @@
+%PDF-1.4
+%‚„œ”
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [3 0 R 5 0 R 7 0 R 9 0 R ] /Count 4 >>
+endobj
+3 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Resources << /Font << /F1 11 0 R /F2 12 0 R >> >> /Contents 4 0 R >>
+endobj
+4 0 obj
+<< /Length 3351 >>
+stream
+0.16 0.50 0.73 rg
+0.16 0.50 0.73 RG
+40.00 770.00 515.00 6.00 re f
+0.10 0.15 0.20 rg
+0.10 0.15 0.20 RG
+BT
+/F2 28.0 Tf
+50.00 730.00 Td
+(SMARTFLOW 2.0) Tj
+ET
+0.15 0.68 0.38 rg
+0.15 0.68 0.38 RG
+BT
+/F2 12.0 Tf
+50.00 705.00 Td
+(Autonomous Traffic Intersection & Surveillance Engine using Reinforcement Learning) Tj
+ET
+0.40 0.45 0.50 rg
+0.40 0.45 0.50 RG
+BT
+/F1 10.0 Tf
+50.00 688.00 Td
+(PROJECT SPECIFICATION & VIVA VOCE DEFENSE REPORT) Tj
+ET
+0.85 0.88 0.90 rg
+0.85 0.88 0.90 RG
+1.00 w 50.00 670.00 m 545.00 670.00 l S
+0.96 0.97 0.98 rg
+0.96 0.97 0.98 RG
+50.00 480.00 495.00 170.00 re f
+0.80 0.85 0.90 rg
+0.80 0.85 0.90 RG
+50.00 480.00 495.00 170.00 re S
+0.10 0.15 0.20 rg
+0.10 0.15 0.20 RG
+BT
+/F2 12.0 Tf
+70.00 625.00 Td
+(PROJECT SUMMARY & METADATA) Tj
+ET
+0.30 0.35 0.40 rg
+0.30 0.35 0.40 RG
+BT
+/F2 10.0 Tf
+70.00 595.00 Td
+(Course / Subject:) Tj
+ET
+BT
+/F1 10.0 Tf
+190.00 595.00 Td
+(Core & Advanced Java Programming / Object-Oriented Software Design) Tj
+ET
+BT
+/F2 10.0 Tf
+70.00 575.00 Td
+(Core Architecture:) Tj
+ET
+BT
+/F1 10.0 Tf
+190.00 575.00 Td
+(Multi-Agent Autonomous Vehicle Kinematics & 60 FPS Event Engine) Tj
+ET
+BT
+/F2 10.0 Tf
+70.00 555.00 Td
+(Machine Learning:) Tj
+ET
+BT
+/F1 10.0 Tf
+190.00 555.00 Td
+(Tabular Q-Learning \(Model-Free RL with Bellman Optimality Equation\)) Tj
+ET
+BT
+/F2 10.0 Tf
+70.00 535.00 Td
+(Surveillance System:) Tj
+ET
+BT
+/F1 10.0 Tf
+190.00 535.00 Td
+(Automated Speed Camera with Red-Light Violation E-Challan Detection) Tj
+ET
+BT
+/F2 10.0 Tf
+70.00 515.00 Td
+(Dependencies:) Tj
+ET
+BT
+/F1 10.0 Tf
+190.00 515.00 Td
+(100% Pure Java \(Standard JDK 8+ Runtime, 0 External JARs or Libraries\)) Tj
+ET
+BT
+/F2 10.0 Tf
+70.00 495.00 Td
+(Build Status:) Tj
+ET
+BT
+/F1 10.0 Tf
+190.00 495.00 Td
+(Verified & Cleanly Compiled \(javac TrafficSimulator.java -> Exit Code 0\)) Tj
+ET
+0.10 0.15 0.20 rg
+0.10 0.15 0.20 RG
+BT
+/F2 12.0 Tf
+50.00 440.00 Td
+(MAJOR MODULES INCLUDED IN THIS BUILD:) Tj
+ET
+0.20 0.25 0.30 rg
+0.20 0.25 0.30 RG
+BT
+/F1 10.0 Tf
+65.00 415.00 Td
+(1. Tabular Q-Learning RL Engine: Autonomous signal learning via state rewards.) Tj
+ET
+0.20 0.25 0.30 rg
+0.20 0.25 0.30 RG
+BT
+/F1 10.0 Tf
+65.00 395.00 Td
+(2. Speed Camera & E-Challan: Red-light jump detection, camera strobe flash & dynamic fines.) Tj
+ET
+0.20 0.25 0.30 rg
+0.20 0.25 0.30 RG
+BT
+/F1 10.0 Tf
+65.00 375.00 Td
+(3. T-Bone Collision Mechanics: Real-time orthogonal crash detection & explosion sparks.) Tj
+ET
+0.20 0.25 0.30 rg
+0.20 0.25 0.30 RG
+BT
+/F1 10.0 Tf
+65.00 355.00 Td
+(4. Multi-Agent Driver Personalities: Learner [L], Rash, VIP Convoy, Ambulance & Normal cars.) Tj
+ET
+0.20 0.25 0.30 rg
+0.20 0.25 0.30 RG
+BT
+/F1 10.0 Tf
+65.00 335.00 Td
+(5. Emergency Green Corridor: V2X priority lane clearance for emergency ambulances.) Tj
+ET
+0.20 0.25 0.30 rg
+0.20 0.25 0.30 RG
+BT
+/F1 10.0 Tf
+65.00 315.00 Td
+(6. Dynamic Night Mode: Ray-cast headlight light cones & ambient dark pavement styling.) Tj
+ET
+0.20 0.25 0.30 rg
+0.20 0.25 0.30 RG
+BT
+/F1 10.0 Tf
+65.00 295.00 Td
+(7. Interactive Roadblocks: Left-click anywhere on road to drop or remove traffic cones.) Tj
+ET
+0.20 0.25 0.30 rg
+0.20 0.25 0.30 RG
+BT
+/F1 10.0 Tf
+65.00 275.00 Td
+(8. Pedestrian Crosswalk: Zebra walk request system with multi-agent pedestrian navigation.) Tj
+ET
+0.60 0.65 0.70 rg
+0.60 0.65 0.70 RG
+0.50 w 50.00 70.00 m 545.00 70.00 l S
+BT
+/F1 8.5 Tf
+230.00 55.00 Td
+(SmartFlow 2.0 Project Report | Page 1 of 4) Tj
+ET
+
+endstream
+endobj
+5 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Resources << /Font << /F1 11 0 R /F2 12 0 R >> >> /Contents 6 0 R >>
+endobj
+6 0 obj
+<< /Length 3884 >>
+stream
+0.16 0.50 0.73 rg
+0.16 0.50 0.73 RG
+BT
+/F2 14.0 Tf
+50.00 780.00 Td
+(1.0 REINFORCEMENT LEARNING & MACHINE LEARNING ARCHITECTURE) Tj
+ET
+0.85 0.88 0.90 rg
+0.85 0.88 0.90 RG
+1.00 w 50.00 770.00 m 545.00 770.00 l S
+0.20 0.25 0.30 rg
+0.20 0.25 0.30 RG
+BT
+/F1 9.5 Tf
+50.00 750.00 Td
+(Traditional traffic signals operate on static timers or basic heuristic queue thresholds.) Tj
+ET
+BT
+/F1 9.5 Tf
+50.00 735.00 Td
+(SmartFlow 2.0 embeds a native Tabular Q-Learning Agent directly in Core Java without Python.) Tj
+ET
+0.95 0.98 0.95 rg
+0.95 0.98 0.95 RG
+50.00 650.00 495.00 70.00 re f
+0.15 0.68 0.38 rg
+0.15 0.68 0.38 RG
+50.00 650.00 495.00 70.00 re S
+0.10 0.15 0.20 rg
+0.10 0.15 0.20 RG
+BT
+/F2 10.0 Tf
+65.00 700.00 Td
+(THE BELLMAN OPTIMALITY EQUATION \(IMPLEMENTED IN JAVA\):) Tj
+ET
+0.15 0.55 0.30 rg
+0.15 0.55 0.30 RG
+BT
+/F2 11.0 Tf
+65.00 680.00 Td
+(Q\(s, a\) = Q\(s, a\) + alpha * [ R + gamma * max_a' Q\(s', a'\) - Q\(s, a\) ]) Tj
+ET
+0.40 0.45 0.50 rg
+0.40 0.45 0.50 RG
+BT
+/F1 8.5 Tf
+65.00 662.00 Td
+(Hyperparameters: Learning Rate \(alpha\) = 0.25 | Discount Factor \(gamma\) = 0.85 | Epsilon = 0.15) Tj
+ET
+0.10 0.15 0.20 rg
+0.10 0.15 0.20 RG
+BT
+/F2 10.5 Tf
+50.00 630.00 Td
+(Discretized State Space \(18 States Total\):) Tj
+ET
+0.30 0.35 0.40 rg
+0.30 0.35 0.40 RG
+BT
+/F1 9.0 Tf
+65.00 615.00 Td
+(- North-South Queue: Low \(0-1 cars\), Medium \(2-3 cars\), High \(4+ cars\) -> 3 Levels) Tj
+ET
+BT
+/F1 9.0 Tf
+65.00 600.00 Td
+(- East-West Queue: Low \(0-1 cars\), Medium \(2-3 cars\), High \(4+ cars\) -> 3 Levels) Tj
+ET
+BT
+/F1 9.0 Tf
+65.00 585.00 Td
+(- Active Phase Bit: 0 \(North-South Green\), 1 \(East-West Green\) -> 2 States) Tj
+ET
+BT
+/F2 9.0 Tf
+65.00 570.00 Td
+(- Total Combinations: 3 x 3 x 2 = 18 Distinct Discrete States.) Tj
+ET
+0.10 0.15 0.20 rg
+0.10 0.15 0.20 RG
+BT
+/F2 10.5 Tf
+50.00 545.00 Td
+(Action Space & Epsilon-Greedy Policy:) Tj
+ET
+0.30 0.35 0.40 rg
+0.30 0.35 0.40 RG
+BT
+/F1 9.0 Tf
+65.00 530.00 Td
+(- Action 0 \(HOLD\): Maintain the current green signal to ensure vehicular throughput momentum.) Tj
+ET
+BT
+/F1 9.0 Tf
+65.00 515.00 Td
+(- Action 1 \(SWITCH\): Initiate yellow clearance phase and transition green to cross-traffic.) Tj
+ET
+BT
+/F1 9.0 Tf
+65.00 500.00 Td
+(- Exploration vs Exploitation: 15% random explore actions vs 85% optimal Bellman policy.) Tj
+ET
+0.10 0.15 0.20 rg
+0.10 0.15 0.20 RG
+BT
+/F2 10.5 Tf
+50.00 475.00 Td
+(Reward Formulation:) Tj
+ET
+0.30 0.35 0.40 rg
+0.30 0.35 0.40 RG
+BT
+/F2 9.5 Tf
+65.00 460.00 Td
+(Reward R = \(+8.0 x Vehicles Cleared\) - [1.2 x Total Waiting Vehicles]) Tj
+ET
+BT
+/F1 9.0 Tf
+65.00 445.00 Td
+(This dual-objective function incentivizes rapid vehicular exit while penalizing cumulative delay.) Tj
+ET
+0.16 0.50 0.73 rg
+0.16 0.50 0.73 RG
+BT
+/F2 14.0 Tf
+50.00 410.00 Td
+(2.0 CORE JAVA OBJECT-ORIENTED CLASS ARCHITECTURE) Tj
+ET
+0.85 0.88 0.90 rg
+0.85 0.88 0.90 RG
+1.00 w 50.00 400.00 m 545.00 400.00 l S
+0.25 0.30 0.35 rg
+0.25 0.30 0.35 RG
+BT
+/F1 9.0 Tf
+50.00 380.00 Td
+(Vehicle.java: Encapsulates x, y, velocity, acceleration, Indian license plates, brake lights & damage.) Tj
+ET
+0.25 0.30 0.35 rg
+0.25 0.30 0.35 RG
+BT
+/F1 9.0 Tf
+50.00 362.00 Td
+(QLearningAgent.java: Contains the 18x2 Q-table matrix, Bellman update logic, and epsilon decay.) Tj
+ET
+0.25 0.30 0.35 rg
+0.25 0.30 0.35 RG
+BT
+/F1 9.0 Tf
+50.00 344.00 Td
+(SignalController.java: Manages phase timers, yellow transitions, RL action calls, and emergency overrides.) Tj
+ET
+0.25 0.30 0.35 rg
+0.25 0.30 0.35 RG
+BT
+/F1 9.0 Tf
+50.00 326.00 Td
+(SimulationPanel.java: 60 FPS JPanel canvas handling double-buffered rendering, collisions & mouse events.) Tj
+ET
+0.25 0.30 0.35 rg
+0.25 0.30 0.35 RG
+BT
+/F1 9.0 Tf
+50.00 308.00 Td
+(TrafficSimulator.java: Primary JFrame container holding real-time telemetry, HUD, and control buttons.) Tj
+ET
+0.60 0.65 0.70 rg
+0.60 0.65 0.70 RG
+0.50 w 50.00 70.00 m 545.00 70.00 l S
+BT
+/F1 8.5 Tf
+230.00 55.00 Td
+(SmartFlow 2.0 Project Report | Page 2 of 4) Tj
+ET
+
+endstream
+endobj
+7 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Resources << /Font << /F1 11 0 R /F2 12 0 R >> >> /Contents 8 0 R >>
+endobj
+8 0 obj
+<< /Length 3378 >>
+stream
+0.16 0.50 0.73 rg
+0.16 0.50 0.73 RG
+BT
+/F2 14.0 Tf
+50.00 780.00 Td
+(3.0 SURVEILLANCE, COLLISION & SIMULATION SUBSYSTEMS) Tj
+ET
+0.85 0.88 0.90 rg
+0.85 0.88 0.90 RG
+1.00 w 50.00 770.00 m 545.00 770.00 l S
+0.10 0.15 0.20 rg
+0.10 0.15 0.20 RG
+BT
+/F2 11.0 Tf
+50.00 745.00 Td
+(3.1 Automated Speed Camera & E-Challan Engine ?) Tj
+ET
+0.30 0.35 0.40 rg
+0.30 0.35 0.40 RG
+BT
+/F1 9.5 Tf
+65.00 730.00 Td
+(The intersection features an automated optical enforcement sensor that checks stop-line boundaries.) Tj
+ET
+BT
+/F1 9.0 Tf
+65.00 715.00 Td
+(- Red-Light Infraction: Triggered when vehicle frontY or frontX traverses stop line while signal is RED.) Tj
+ET
+BT
+/F1 9.0 Tf
+65.00 700.00 Td
+(- Visual Strobe Burst: Generates an instantaneous high-intensity white camera flash overlay.) Tj
+ET
+BT
+/F1 9.0 Tf
+65.00 685.00 Td
+(- Automated Citation: Compiles an authentic Indian license plate \(e.g. DL-04-AB-1290\) and logs Rs 2,000 fine.) Tj
+ET
+BT
+/F1 9.0 Tf
+65.00 670.00 Td
+(- Municipal Revenue HUD: Live counter aggregates total traffic fines collected across the session.) Tj
+ET
+0.10 0.15 0.20 rg
+0.10 0.15 0.20 RG
+BT
+/F2 11.0 Tf
+50.00 640.00 Td
+(3.2 T-Bone Collision & Kinetic Crash Dynamics ?) Tj
+ET
+0.30 0.35 0.40 rg
+0.30 0.35 0.40 RG
+BT
+/F1 9.5 Tf
+65.00 625.00 Td
+(Demonstrates real-time multi-body spatial conflict detection inside the intersection conflict box.) Tj
+ET
+BT
+/F1 9.0 Tf
+65.00 610.00 Td
+(- Euclidean Distance Threshold: Detects when orthogonal vehicles approach within 30px of each other.) Tj
+ET
+BT
+/F1 9.0 Tf
+65.00 595.00 Td
+(- Structural Damage: Both colliding vehicles stop instantly, rotate at impact angles, and show charred dents.) Tj
+ET
+BT
+/F1 9.0 Tf
+65.00 580.00 Td
+(- Particle Engine: Spawns 45 flame, spark, and smoke particles with physics vectors and alpha decay.) Tj
+ET
+BT
+/F1 9.0 Tf
+65.00 565.00 Td
+(- Emergency Tow Truck Protocol: Operators can clear the collision and restore traffic with 1-click.) Tj
+ET
+0.10 0.15 0.20 rg
+0.10 0.15 0.20 RG
+BT
+/F2 11.0 Tf
+50.00 535.00 Td
+(3.3 Multi-Agent Driver Behavioral Profiles) Tj
+ET
+0.30 0.35 0.40 rg
+0.30 0.35 0.40 RG
+BT
+/F1 9.0 Tf
+65.00 520.00 Td
+(- NORMAL: Respects speed limits, maintains 20px following gap, decelerates smoothly at red lights.) Tj
+ET
+BT
+/F1 9.0 Tf
+65.00 505.00 Td
+(- LEARNER [L]: Roof-mounted [L] plate, capped at 1.9 px/frame, displays delayed reaction times.) Tj
+ET
+BT
+/F1 9.0 Tf
+65.00 490.00 Td
+(- RASH: High speed \(4.5 px/frame\), impatient honking \('BEEP BEEP!'\), jumps red lights with 100% certainty.) Tj
+ET
+BT
+/F1 9.0 Tf
+65.00 475.00 Td
+(- VIP CONVOY: Jet-black tinted SUV with flashing red/blue beacons; exercises absolute right-of-way.) Tj
+ET
+BT
+/F1 9.0 Tf
+65.00 460.00 Td
+(- AMBULANCE: Emergency siren van that activates intersection-wide V2X Green Corridor preemption.) Tj
+ET
+0.10 0.15 0.20 rg
+0.10 0.15 0.20 RG
+BT
+/F2 11.0 Tf
+50.00 430.00 Td
+(3.4 Night Mode Headlights & Eco-Emissions Telemetry ? ?) Tj
+ET
+0.30 0.35 0.40 rg
+0.30 0.35 0.40 RG
+BT
+/F1 9.0 Tf
+65.00 415.00 Td
+(- Night Lighting: Renders asphalt in midnight navy with trapezoidal, alpha-blended headlight beams.) Tj
+ET
+BT
+/F1 9.0 Tf
+65.00 400.00 Td
+(- Idle Carbon Tracker: Accumulates 0.25 mL/sec fuel waste and 0.60 g/sec CO2 emissions for stationary vehicles.) Tj
+ET
+0.60 0.65 0.70 rg
+0.60 0.65 0.70 RG
+0.50 w 50.00 70.00 m 545.00 70.00 l S
+BT
+/F1 8.5 Tf
+230.00 55.00 Td
+(SmartFlow 2.0 Project Report | Page 3 of 4) Tj
+ET
+
+endstream
+endobj
+9 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Resources << /Font << /F1 11 0 R /F2 12 0 R >> >> /Contents 10 0 R >>
+endobj
+10 0 obj
+<< /Length 3771 >>
+stream
+0.16 0.50 0.73 rg
+0.16 0.50 0.73 RG
+BT
+/F2 14.0 Tf
+50.00 780.00 Td
+(4.0 VIVA VOCE QUESTIONS & BULLETPROOF ANSWERS) Tj
+ET
+0.85 0.88 0.90 rg
+0.85 0.88 0.90 RG
+1.00 w 50.00 770.00 m 545.00 770.00 l S
+0.10 0.15 0.20 rg
+0.10 0.15 0.20 RG
+BT
+/F2 9.5 Tf
+50.00 745.00 Td
+(Q1: Why use Reinforcement Learning \(Q-Learning\) instead of Supervised Learning?) Tj
+ET
+0.15 0.55 0.30 rg
+0.15 0.55 0.30 RG
+BT
+/F2 9.0 Tf
+65.00 728.00 Td
+(Ans: Supervised learning needs pre-labeled training data, which cannot capture dynamic, live traffic fluctuations.) Tj
+ET
+0.10 0.15 0.20 rg
+0.10 0.15 0.20 RG
+BT
+/F2 9.5 Tf
+50.00 711.00 Td
+(Q-Learning enables the signal agent to learn optimal policies online via trial-and-error reward signals.) Tj
+ET
+0.10 0.15 0.20 rg
+0.10 0.15 0.20 RG
+BT
+/F2 9.5 Tf
+50.00 677.00 Td
+(Q2: How is 60 FPS animation achieved without screen flicker or stutter?) Tj
+ET
+0.15 0.55 0.30 rg
+0.15 0.55 0.30 RG
+BT
+/F2 9.0 Tf
+65.00 660.00 Td
+(Ans: Handled by javax.swing.Timer triggering every 16ms \(~62.5 FPS\). Swing implements Double Buffering) Tj
+ET
+0.30 0.35 0.40 rg
+0.30 0.35 0.40 RG
+BT
+/F1 9.0 Tf
+65.00 643.00 Td
+(which renders frames in an off-screen memory buffer before updating the visible display.) Tj
+ET
+0.10 0.15 0.20 rg
+0.10 0.15 0.20 RG
+BT
+/F2 9.5 Tf
+50.00 609.00 Td
+(Q3: How does vehicular collision avoidance work in the same lane?) Tj
+ET
+0.15 0.55 0.30 rg
+0.15 0.55 0.30 RG
+BT
+/F2 9.0 Tf
+65.00 592.00 Td
+(Ans: Each vehicle checks the vehicle ahead in its lane. If the gap falls below the safe buffer \(20px\),) Tj
+ET
+0.30 0.35 0.40 rg
+0.30 0.35 0.40 RG
+BT
+/F1 9.0 Tf
+65.00 575.00 Td
+(the follower automatically matches the leading vehicle's speed or applies full deceleration.) Tj
+ET
+0.10 0.15 0.20 rg
+0.10 0.15 0.20 RG
+BT
+/F2 9.5 Tf
+50.00 541.00 Td
+(Q4: What is the purpose of Epsilon \(0.15\) in your Q-Learning code?) Tj
+ET
+0.15 0.55 0.30 rg
+0.15 0.55 0.30 RG
+BT
+/F2 9.0 Tf
+65.00 524.00 Td
+(Ans: It manages the Exploration vs Exploitation trade-off. 85% of decisions exploit the best-known Q-value,) Tj
+ET
+0.30 0.35 0.40 rg
+0.30 0.35 0.40 RG
+BT
+/F1 9.0 Tf
+65.00 507.00 Td
+(while 15% explore random actions to uncover better long-term phase timings.) Tj
+ET
+0.10 0.15 0.20 rg
+0.10 0.15 0.20 RG
+BT
+/F2 9.5 Tf
+50.00 473.00 Td
+(Q5: Where are Java OOP concepts implemented?) Tj
+ET
+0.15 0.55 0.30 rg
+0.15 0.55 0.30 RG
+BT
+/F2 9.0 Tf
+65.00 456.00 Td
+(Ans: Encapsulation \(private fields with accessors in Vehicle & QLearningAgent\), Enums \(Direction, SignalColor,) Tj
+ET
+0.30 0.35 0.40 rg
+0.30 0.35 0.40 RG
+BT
+/F1 9.0 Tf
+65.00 439.00 Td
+(DriverPersonality, ControlMode\), Polymorphism \(ActionListeners & MouseAdapter\), and Collections \(List<Vehicle>\).) Tj
+ET
+0.16 0.50 0.73 rg
+0.16 0.50 0.73 RG
+BT
+/F2 14.0 Tf
+50.00 310.00 Td
+(5.0 EXECUTION COMMANDS & VERIFICATION) Tj
+ET
+0.85 0.88 0.90 rg
+0.85 0.88 0.90 RG
+1.00 w 50.00 300.00 m 545.00 300.00 l S
+0.96 0.97 0.98 rg
+0.96 0.97 0.98 RG
+50.00 210.00 495.00 75.00 re f
+0.80 0.85 0.90 rg
+0.80 0.85 0.90 RG
+50.00 210.00 495.00 75.00 re S
+0.10 0.15 0.20 rg
+0.10 0.15 0.20 RG
+BT
+/F2 10.0 Tf
+70.00 265.00 Td
+(COMPILATION & EXECUTION INSTRUCTIONS:) Tj
+ET
+0.20 0.50 0.80 rg
+0.20 0.50 0.80 RG
+BT
+/F2 9.5 Tf
+70.00 245.00 Td
+(cd C:\\Users\\ayush\\.gemini\\antigravity\\scratch\\traffic-simulation) Tj
+ET
+BT
+/F2 9.5 Tf
+70.00 230.00 Td
+(javac TrafficSimulator.java) Tj
+ET
+BT
+/F2 9.5 Tf
+70.00 215.00 Td
+(java TrafficSimulator) Tj
+ET
+0.30 0.35 0.40 rg
+0.30 0.35 0.40 RG
+BT
+/F1 9.0 Tf
+50.00 160.00 Td
+(Generated for College Viva Voce Examination & Project Defense.) Tj
+ET
+BT
+/F2 9.0 Tf
+50.00 145.00 Td
+(All features verified, tested, and ready for live demonstration.) Tj
+ET
+0.60 0.65 0.70 rg
+0.60 0.65 0.70 RG
+0.50 w 50.00 70.00 m 545.00 70.00 l S
+BT
+/F1 8.5 Tf
+230.00 55.00 Td
+(SmartFlow 2.0 Project Report | Page 4 of 4) Tj
+ET
+
+endstream
+endobj
+11 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+12 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica-Bold >>
+endobj
+xref
+0 13
+0000000000 65535 f 
+0000000015 00000 n 
+0000000064 00000 n 
+0000000140 00000 n 
+0000000284 00000 n 
+0000003687 00000 n 
+0000003831 00000 n 
+0000007767 00000 n 
+0000007911 00000 n 
+0000011341 00000 n 
+0000011486 00000 n 
+0000015310 00000 n 
+0000015381 00000 n 
+trailer
+<< /Size 13 /Root 1 0 R >>
+startxref
+15457
+%%EOF
